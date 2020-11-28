@@ -1,0 +1,28 @@
+h1 {
+color:rgb(67, 151, 71);
+}
+/* *{
+    border: solid;
+}*/
+.header {
+background-color: aliceblue;
+display: flex;
+justify-content:  space space-evenly;
+}
+.site-description {
+    display: inline;
+    flex-direction:row ;
+    justify-content:  space space-evenly;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space space-evenly;
+}
+.footer{
+display: flex;
+justify-content:  space space-evenly;
+}
+p,h2{
+text-align:"center" ;
+}
